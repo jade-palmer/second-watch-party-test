@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "76b0848d-67d4-4f2f-a29e-731f708c8d87": {
+      "label": "SWPT",
+      "is_offline": false,
+      "file_url": "https://youtu.be/k-mwMdWvSDc",
+      "duration": 3276,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "Second Watch Party Test",
+  "created_at": "2025-05-06T19:00:58.235Z",
+  "created_by": "jade-palmer",
+  "updated_at": "2025-05-06T19:00:58.235Z",
+  "updated_by": "jade-palmer"
+}

@@ -1,5 +1,2820 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm so excited! And nervous!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "11305711-628c-458d-b411-45d8e0947118"
+    },
+    {
+      "start_time": 12,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wonder if I'll recognize anyone..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "ben hynes",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "55d044b4-b5c4-4ab5-aee6-5df2ced3ad18"
+    },
+    {
+      "start_time": 29,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What a great hat Endre used to wear."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "237682e6-65f4-474f-ac76-834851ca609b"
+    },
+    {
+      "start_time": 44,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "good to see how outside noise affects the video"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "b4ec0b6d-bd40-4304-bb4d-45625357b1db"
+    },
+    {
+      "start_time": 60,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I guess this was around the Free Trade agreement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "71dd9fa9-3ad8-4a83-842f-8fb87a7388e3"
+    },
+    {
+      "start_time": 60,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very spooky how things do come around, over 35 years and things seem the same in ways"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "ben hynes",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "2bf75a15-4896-4d69-800e-d69410ffbef3"
+    },
+    {
+      "start_time": 61,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a great way to start given the current political climate!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "4e4a8d6d-0da9-4432-9b0d-88a939e5265f"
+    },
+    {
+      "start_time": 80,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "haha great minds think alike WINKY FACE"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "f0be3d19-ab1e-421c-a3f4-a547cd0737fe"
+    },
+    {
+      "start_time": 90,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing out loud"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "ben hynes",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "58e010a4-6cc8-4279-8850-9685a3cb65b0"
+    },
+    {
+      "start_time": 114,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Endre often did full length rewriting/parodies of Canadianizations of Ginsberg Poems. He published a book called Howl Too, eh?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "fc0ec97a-b4db-4de1-9bd0-c38a93944f3a"
+    },
+    {
+      "start_time": 118,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "can you guys see if i bring the duration bar at the bottom into view or not? or is it all personalized?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "2ca2faa8-fd6c-4b1d-9a6e-73f43f9e7d4f"
+    },
+    {
+      "start_time": 132,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "51st state mention, oh no"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "ben hynes",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "9365f652-3a3b-4763-b910-df84ce587871"
+    },
+    {
+      "start_time": 144,
+      "end_time": 144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kind of choppy on my end, is that a stream issue?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "TJ",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "68d090fc-e1e5-4435-abd4-af822f24f87c"
+    },
+    {
+      "start_time": 147,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wonder if folks are feeling nostalgic for Justin Trudeau at this point?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "ben hynes",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "5ac923d9-03e0-4959-a286-d82df4d86a08"
+    },
+    {
+      "start_time": 147,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This rewriting of Gisberg's America is not bad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "f0118100-0b82-4b7d-9d66-c52d92741fbb"
+    },
+    {
+      "start_time": 157,
+      "end_time": 157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's the video, I think, not at all a stream issue."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "785030d0-b7b8-4938-bfdc-5d83ee3bffbe"
+    },
+    {
+      "start_time": 161,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Replying to \"Kind of choppy on my...\" choppy in audio or video?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "8ccb03f3-3495-4207-a6a9-9080a2415eee"
+    },
+    {
+      "start_time": 174,
+      "end_time": 174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Replying to \"Kind of choppy on my...\" No in the video"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "dc3d3d93-f444-44c3-99c6-822b8d90228b"
+    },
+    {
+      "start_time": 188,
+      "end_time": 188,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, that's from the original video, not the stream."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "0e43bb66-b235-40d2-9871-dad41ccd9279"
+    },
+    {
+      "start_time": 192,
+      "end_time": 192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "when we are all together i can show you what it looks like on my side and see if there's a big difference"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "88334a64-1a86-411b-b950-bb2a7542fbc4"
+    },
+    {
+      "start_time": 196,
+      "end_time": 196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Replying to \"Kind of choppy on my...\" Everything pretty smooth for me, jittery camera maybe"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "ben hynes",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "22fdbc23-7716-4831-a305-e3c77781f431"
+    },
+    {
+      "start_time": 200,
+      "end_time": 200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "for me it's not particularly choppy"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "d7432feb-4255-4b4f-9960-d8552aa28010"
+    },
+    {
+      "start_time": 220,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't see any timeline below the video, do you all?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "8e1a225d-c08b-41ab-a146-e0c23e420103"
+    },
+    {
+      "start_time": 228,
+      "end_time": 228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No timeline here"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "ben hynes",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "65476677-3926-4122-8e21-6fcba4c2ca6b"
+    },
+    {
+      "start_time": 294,
+      "end_time": 294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "okay! is that something you think people will want to see? i could try to toggle it on, but I think it looks cleaner without"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "a8ec4a75-dc10-4370-a128-b2d9ff34247c"
+    },
+    {
+      "start_time": 333,
+      "end_time": 333,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think with would be distracted"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "TJ",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "36dd26d3-92f0-4c41-8756-60e2fb882819"
+    },
+    {
+      "start_time": 339,
+      "end_time": 339,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He is rewriting \"America\" line by line, actually. It's like a Canadian experiential translation. An interesting poem to think about today. The second referendum was Oct 30 1995. When was this reading from?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "2d304e19-f5fc-4878-aac2-13ddbc5b9e06"
+    },
+    {
+      "start_time": 347,
+      "end_time": 347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lee wanted me to keep his rough start in"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "26078fc3-672b-4d82-b48a-88aec2f03a75"
+    },
+    {
+      "start_time": 352,
+      "end_time": 352,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We should state the date of the reading in our opening remarks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "d8d873f9-12ab-4d4c-a765-5811c6549612"
+    },
+    {
+      "start_time": 368,
+      "end_time": 368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is this at the same venue?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "fb9c9a1b-4a5a-44bc-962e-7c5fb8269c87"
+    },
+    {
+      "start_time": 380,
+      "end_time": 380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, you asked him? That's great."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "375d2de4-d262-4ac9-ba36-23cc6ad2ff23"
+    },
+    {
+      "start_time": 407,
+      "end_time": 407,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think same venue, yes, drop cloth behind looks the same"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "ben hynes",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "963053f4-2d10-4fa0-abec-2ade9d48ceda"
+    },
+    {
+      "start_time": 409,
+      "end_time": 409,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "this is Building Danse, we could also put that at the beginning of the video with the date"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "ae63940c-f134-4f71-af28-99d46ff32bd7"
+    },
+    {
+      "start_time": 416,
+      "end_time": 416,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "yes all of this is the same place"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "13684231-7f97-4017-bbb9-0c0953e2909a"
+    },
+    {
+      "start_time": 419,
+      "end_time": 419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Good idea."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "30310d96-d6fc-4c9b-9124-23405001b910"
+    },
+    {
+      "start_time": 436,
+      "end_time": 436,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I love that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "4e42ec72-6177-4bcb-9fc7-88b1adbc0ba1"
+    },
+    {
+      "start_time": 464,
+      "end_time": 464,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I agree with Lee, it's good to keep that to watch together."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "f48598ba-2f8a-47cc-9ed6-76aa84fab0e6"
+    },
+    {
+      "start_time": 479,
+      "end_time": 479,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lee brought up this part of the performance in the email i sent about the watch party, thought it would generate some interesting conversation"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "3c96a812-c745-40a3-a4f7-cffd63b6dd87"
+    },
+    {
+      "start_time": 499,
+      "end_time": 499,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "he delivers it so much differently the second time"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "e7f540c9-bcb0-47b5-85b5-66f74b9cf109"
+    },
+    {
+      "start_time": 504,
+      "end_time": 504,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "when he's reading off paper"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "d20600a3-2359-46b8-b719-24c2dc5461d5"
+    },
+    {
+      "start_time": 511,
+      "end_time": 511,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Drew was the videographer, right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "a1f5e96a-9a8b-4ca1-a84f-2adbf967c067"
+    },
+    {
+      "start_time": 517,
+      "end_time": 517,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "yes he was"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "28f55f48-d0dd-46c6-b7b9-80df0d531823"
+    },
+    {
+      "start_time": 526,
+      "end_time": 526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Captures the spirit of things."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "54a1df9b-e7c4-444a-8aeb-989177168a44"
+    },
+    {
+      "start_time": 538,
+      "end_time": 538,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i don't think I emailed Drew... will do it asap after"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "f2530b2f-2a51-43ce-8f65-96f08cfb6e2d"
+    },
+    {
+      "start_time": 557,
+      "end_time": 557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very good idea. Sam said he'd come. Who is the keyboardist again?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "c2f5e963-d00f-4fed-a988-ed89f3b1936a"
+    },
+    {
+      "start_time": 570,
+      "end_time": 570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "unknown, so this is a good way to identify him"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "07cf8635-ae3b-433c-bdec-373f5f466166"
+    },
+    {
+      "start_time": 597,
+      "end_time": 597,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "so much more theatrical read off the page, which is interesting"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "9ea73156-1046-4b3c-b81c-9f97681076d6"
+    },
+    {
+      "start_time": 598,
+      "end_time": 598,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Good length of the musical interlude. and good to return to Lee after that. Great choice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "f9432a2b-4958-42e2-8b4e-bd67bf6ab7a0"
+    },
+    {
+      "start_time": 607,
+      "end_time": 607,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "SMILEY FACE"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "421aec55-fb8f-4846-888b-ee9ac762c789"
+    },
+    {
+      "start_time": 652,
+      "end_time": 652,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wonder why Drew filmed most readers so close up for these readings (so far)?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "647bc760-f484-4d4e-8745-54c8d6f56c27"
+    },
+    {
+      "start_time": 665,
+      "end_time": 665,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "he tends to do that in a lot of the enough said videos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "d638727d-9fa8-458f-976a-27fe4e8f7f63"
+    },
+    {
+      "start_time": 668,
+      "end_time": 668,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We only get the audience through little ambient sounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "1df68d61-7afd-4e4d-b8bc-10c8396d3b71"
+    },
+    {
+      "start_time": 685,
+      "end_time": 685,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Necrotizing fascistitis..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "088a364f-a197-4344-a951-58f3bcfa4fbb"
+    },
+    {
+      "start_time": 689,
+      "end_time": 689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "there's a big pan of the audience in a bit, then for fluffy pagan echoes it's full body shots"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "98cc2091-b53b-474f-851b-731e871368e9"
+    },
+    {
+      "start_time": 698,
+      "end_time": 698,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "394be7d0-3fae-42ff-b1e6-cfdc5848c0cb"
+    },
+    {
+      "start_time": 716,
+      "end_time": 716,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do we feel about the tape hiss/hum? Is it something I should try to remove or dampen going forward?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "TJ",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "1b0ea9f6-a316-46df-9bc5-5e02b1d526d5"
+    },
+    {
+      "start_time": 746,
+      "end_time": 746,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i only noticed it when you mentioned something hahaha, I personally think it adds character and fits the time"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "f43cdb5f-0e88-4b5d-a1cd-fe6d622e418f"
+    },
+    {
+      "start_time": 747,
+      "end_time": 747,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it's fine. It doesn't prevent hearing the speech too much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "af650ae4-a4ea-45cd-b776-585c1b2f5105"
+    },
+    {
+      "start_time": 768,
+      "end_time": 768,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I like the character it adds"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "ben hynes",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "d26dadc2-3351-4a09-a62a-4e59f22205d0"
+    },
+    {
+      "start_time": 785,
+      "end_time": 785,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "THUMBS UP"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "TJ",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "b2eb27a8-dc61-4a7b-9da6-26118675f4b2"
+    },
+    {
+      "start_time": 786,
+      "end_time": 786,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is Lee wearing a kimono?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "c3abeb84-4e72-45d9-8926-a3a0d4799150"
+    },
+    {
+      "start_time": 802,
+      "end_time": 802,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Orgasm got a laugh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "0d7d857b-051d-45d7-9cfd-5e1574531a66"
+    },
+    {
+      "start_time": 808,
+      "end_time": 808,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Maybe in tribute to the Mishima reference in the poem?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "ben hynes",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "57fe7b51-05fb-40cc-be9e-35b0ca765299"
+    },
+    {
+      "start_time": 818,
+      "end_time": 818,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Replying to \"Is Lee wearing a kim...\" one of the other benefits of having a longer shot"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "f8eb19e1-94f7-46c5-ade9-9afdbdec50bb"
+    },
+    {
+      "start_time": 829,
+      "end_time": 829,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Good observation!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "42127b42-3312-4f9a-a84c-d93cdf749450"
+    },
+    {
+      "start_time": 837,
+      "end_time": 837,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "^^^ very good point Ben, he did a lot of travelling in Asia as well"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "6341ca81-f3c7-4d9f-ac14-337cc3f9556c"
+    },
+    {
+      "start_time": 844,
+      "end_time": 844,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "True."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "a488d957-e067-408d-981d-7be944430ff1"
+    },
+    {
+      "start_time": 863,
+      "end_time": 863,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "TJ, we'll need to change that banner from Swifty Lazar to Swifty Lazarus"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "f92d649d-37f6-4e74-b469-64557a779623"
+    },
+    {
+      "start_time": 886,
+      "end_time": 886,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Noted!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "TJ",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "91d74fd6-1b2b-4545-91d0-4eb46f67f039"
+    },
+    {
+      "start_time": 888,
+      "end_time": 888,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You could smoke indoors in those days."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "6829e4d8-4945-4ce4-827a-4f28fa84535e"
+    },
+    {
+      "start_time": 892,
+      "end_time": 892,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wasn't sure about keeping the whole news report recording, let me know if you guys think it's too long"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "c665ff32-67f4-41b2-96e7-8a9955927737"
+    },
+    {
+      "start_time": 902,
+      "end_time": 902,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "there's sooo much smoking in these videos lol"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "e2d0e135-7c10-4f2d-b11d-940b09fc38b6"
+    },
+    {
+      "start_time": 911,
+      "end_time": 911,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I want to ask Todd where he got those headphones."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "6a39cd5b-8666-4190-8e00-431a3a4b5d27"
+    },
+    {
+      "start_time": 934,
+      "end_time": 934,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How long a stretch of Swifty Lazarus did you end up keeping (approx.)?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "34bdc3c3-7ed8-4bb2-a1e4-302926b5c945"
+    },
+    {
+      "start_time": 949,
+      "end_time": 949,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "let me check the spreadsheet"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "a700752a-13fc-4ee0-9f3e-48684b3c154a"
+    },
+    {
+      "start_time": 957,
+      "end_time": 957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'll try to get Tom one more time. It'd be interesting to ask him about his gear."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "69f10650-5f18-494a-a470-fff37423f3ab"
+    },
+    {
+      "start_time": 971,
+      "end_time": 971,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Replying to \"You could smoke indo...\" I'm just old enough to remember smoking sections in restaurants... and both my parents were smokers so a lot of funky smelling pancakes in my past"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "TJ",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "d99e4394-37e4-4b98-8299-f0de7534c149"
+    },
+    {
+      "start_time": 988,
+      "end_time": 988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This poem from Todd's book CafÃ© Alibi, I think."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "6e4c5897-399a-44de-8a88-dda169c2b800"
+    },
+    {
+      "start_time": 1005,
+      "end_time": 1005,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "5.5 minutes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "e0859e4f-720e-4323-a702-e551285a23eb"
+    },
+    {
+      "start_time": 1025,
+      "end_time": 1025,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "two pieces with a cut just about to happen"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "648d3c56-dd0d-4441-8f25-d20b65d1c2ba"
+    },
+    {
+      "start_time": 1041,
+      "end_time": 1041,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "love the first line here"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "48c693a7-a85f-460f-8238-0d00e9d24267"
+    },
+    {
+      "start_time": 1046,
+      "end_time": 1046,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That tuxedo he's wearing, I think I borrowed it when I was in London and had to attend the Booker Prize ceremony at the Victoria and Albert Museum. But probably not. He wouldn't fit into it anymore, I don't think."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "a0248f65-f8c3-4c97-adb0-94896e60811c"
+    },
+    {
+      "start_time": 1047,
+      "end_time": 1047,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Replying to \"I want to ask Todd w...\" Look like AKGs"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "TJ",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "4b71decb-4f41-4e47-a133-f9cad3b1a5b5"
+    },
+    {
+      "start_time": 1097,
+      "end_time": 1097,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Replying to \"That tuxedo he's wea...\" when you /had/ to attend? how was it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "097824c4-d204-4058-a55c-37bc77bf454f"
+    },
+    {
+      "start_time": 1121,
+      "end_time": 1121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "mood change!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "a0ff7ef4-70a1-47b1-ad65-ab08d389d4b0"
+    },
+    {
+      "start_time": 1128,
+      "end_time": 1128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Replying to \"I want to ask Todd w...\" The little knobs on each earphone are something."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "afdf2cbd-8e06-4f0b-92e4-331bd0547b3a"
+    },
+    {
+      "start_time": 1144,
+      "end_time": 1144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Swifty Lazarus was nothing if not very moody."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "dc24356d-cf5f-4e5e-9d35-96406778173c"
+    },
+    {
+      "start_time": 1158,
+      "end_time": 1158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Replying to \"I want to ask Todd w...\" i wonder how \"necessary\" they are considering Tom isn't wearing any"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "671d11d4-1526-4d09-8bb9-4dae2cfcc46e"
+    },
+    {
+      "start_time": 1194,
+      "end_time": 1194,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Replying to \"I want to ask Todd w...\" I'm sure they're a prop. Although I didn't see any monitors."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "1939c7cf-f209-4b3a-9473-95d7f53e7b46"
+    },
+    {
+      "start_time": 1211,
+      "end_time": 1211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Replying to \"I want to ask Todd w...\" guess we'll have a chance to ask him!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "23b5f56a-6b30-4c8a-9ee4-38e6a9d7632b"
+    },
+    {
+      "start_time": 1230,
+      "end_time": 1230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Corey Frost and...? I missed the opening banner."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "83444bf6-df6f-42a0-a18d-0b86ca8fbdc2"
+    },
+    {
+      "start_time": 1237,
+      "end_time": 1237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "these guys have so much fun together on stage---will be interesting to see if/how they interact"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "24f1bcc2-b0c8-48c6-83ca-b08ce9d12462"
+    },
+    {
+      "start_time": 1241,
+      "end_time": 1241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Colin Christie"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "0a72297c-393c-40b3-9b11-dc70aa3b366e"
+    },
+    {
+      "start_time": 1324,
+      "end_time": 1324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That counting bit was from the TV show ZOOM"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "b3b75b09-574f-4ebd-960a-2ebaaa8c2952"
+    },
+    {
+      "start_time": 1350,
+      "end_time": 1350,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know the pinball counting from Sesame Street"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "ben hynes",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "1bb66f39-83bf-4387-bc32-51a5059b1fdb"
+    },
+    {
+      "start_time": 1375,
+      "end_time": 1375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh yes maybe it was SS."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "2883ac2f-d455-43b3-ab5d-016d9ff055c4"
+    },
+    {
+      "start_time": 1389,
+      "end_time": 1389,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the whole thing feels like such a fever dream"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "6e733157-681b-487c-b4f9-b0e0b8cbdaed"
+    },
+    {
+      "start_time": 1393,
+      "end_time": 1393,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "seamless transitions"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "3c7984c0-d25c-41ab-8250-35061b2e05b5"
+    },
+    {
+      "start_time": 1404,
+      "end_time": 1404,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very funky 70s animation, lots of SpokenWebby browns and oranges"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "ben hynes",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "44ce6a58-5d78-4b93-a45b-7ae6d4e6c82c"
+    },
+    {
+      "start_time": 1415,
+      "end_time": 1415,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "f858dd55-2864-4032-b0bb-944a757e094e"
+    },
+    {
+      "start_time": 1430,
+      "end_time": 1430,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ya this performance is really strong."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "67035175-d44b-4228-809f-42e9c9799948"
+    },
+    {
+      "start_time": 1464,
+      "end_time": 1464,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sneaky amount of work goes into making chaos seamless"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "ben hynes",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "f65cff69-925f-4564-9ecb-c0a2de851dc0"
+    },
+    {
+      "start_time": 1465,
+      "end_time": 1465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Corey's work was already very weird and interesting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "e39d50bb-2e0e-40bc-a414-fa5acd546a6d"
+    },
+    {
+      "start_time": 1497,
+      "end_time": 1497,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We can ask how much were promots followed by improv."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "0449cbd9-42b6-4771-abb7-f8093a8e1569"
+    },
+    {
+      "start_time": 1504,
+      "end_time": 1504,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "prompts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "fba928c5-7bcf-4535-977b-6af4fb4a9eae"
+    },
+    {
+      "start_time": 1517,
+      "end_time": 1517,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "their performance was quite long so that was the most reasonable place to cut it"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "3ded0782-e24c-4430-8283-83bcd4cfe2db"
+    },
+    {
+      "start_time": 1529,
+      "end_time": 1529,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ya good cut."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "8bd403f8-2087-44c6-b51d-0816e909815c"
+    },
+    {
+      "start_time": 1539,
+      "end_time": 1539,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "THis is moving at a good pace, I think."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "53af0b1f-71c3-477d-bf7d-d146be977fd4"
+    },
+    {
+      "start_time": 1548,
+      "end_time": 1548,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "this is the groupe de poesie moderne, wasn't able to get contact info for them"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "c88f7bd0-9dc3-46f1-a023-8f822bcf9f1e"
+    },
+    {
+      "start_time": 1555,
+      "end_time": 1555,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "will ask the folks present"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "a8ae474e-b086-41c5-907b-f039c8b43755"
+    },
+    {
+      "start_time": 1573,
+      "end_time": 1573,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "but for that reason it's also shorter than all of them, since no one in the groupe will be at the watch party\\"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "4c332ba3-0d9e-4360-85bd-62ab9a58ca6a"
+    },
+    {
+      "start_time": 1583,
+      "end_time": 1583,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fortner can't come but asked if he can add annotations on his own. Wasn't sure what to tell him..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "ce545fe8-ed83-4243-8ebf-b5b2495810dd"
+    },
+    {
+      "start_time": 1644,
+      "end_time": 1644,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that would be a good opportunity to use Hypothesis, it would take me a fair number of hours to clean up the transcript to load it on though"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "c0e337d7-9068-4f20-9c47-4f11dc4469e5"
+    },
+    {
+      "start_time": 1645,
+      "end_time": 1645,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Great clip."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "53be09f4-1f8f-4655-9fb3-f8a07cf91759"
+    },
+    {
+      "start_time": 1653,
+      "end_time": 1653,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Good audience shot there!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "bb245073-f96a-4df9-94a8-55d1f10436dc"
+    },
+    {
+      "start_time": 1710,
+      "end_time": 1710,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i think Ran Elfassy is going to be a character"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "38d244c2-3360-4349-8bfa-877dc359b6a7"
+    },
+    {
+      "start_time": 1734,
+      "end_time": 1734,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The groups are both good at being 'in the same character'"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "893d54b0-0455-42fd-bcc0-1531f8f84250"
+    },
+    {
+      "start_time": 1758,
+      "end_time": 1758,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lots of choral reading performance in these groups."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "45cd8cc0-5b11-41f5-ae22-6b9291b9761a"
+    },
+    {
+      "start_time": 1773,
+      "end_time": 1773,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "unfortunately i dont think this is fpe's best piece but oh well"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "718a28ff-c341-4e24-8b43-5d2d016cab9e"
+    },
+    {
+      "start_time": 1780,
+      "end_time": 1780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ben and TJ, please describe the clothes of this group."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "ee16f796-825a-4bcb-b8bd-b75cbcace3b8"
+    },
+    {
+      "start_time": 1793,
+      "end_time": 1793,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We need more posts from additional viewers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "ae7d8f11-ea79-4f3b-a6eb-5c0455e96ee7"
+    },
+    {
+      "start_time": 1812,
+      "end_time": 1812,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very 90's, could be an REM cover band---flannel shirts, ripped jeans, look like maybe 501s."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "ben hynes",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "55ece582-38b5-4de0-bfe3-13e5de5c1588"
+    },
+    {
+      "start_time": 1816,
+      "end_time": 1816,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Red hot chilli peppers thrifted clothes before a performance"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "TJ",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "42a9e408-cb0f-4dd6-9081-3dc6740b6294"
+    },
+    {
+      "start_time": 1838,
+      "end_time": 1838,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I want Vince's dartboard shirt. I wonder if he still has it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "58d8c469-4516-48c7-ae90-f2771493e8c2"
+    },
+    {
+      "start_time": 1842,
+      "end_time": 1842,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Layers---long johns under shorts, vest over shirt, shirts over shirts"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "ben hynes",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "d68146f6-4da6-4314-afa6-d8797f58423a"
+    },
+    {
+      "start_time": 1856,
+      "end_time": 1856,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Keep going!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "932c8711-1ab5-4c28-98bd-1495e8da6a33"
+    },
+    {
+      "start_time": 1872,
+      "end_time": 1872,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "definitely a baggier sensibility"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "55a96817-7614-4def-b151-dca41cde5f36"
+    },
+    {
+      "start_time": 1875,
+      "end_time": 1875,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "f6d6e8ec-0785-4b0a-aeb7-bb6d6c8e3fa9"
+    },
+    {
+      "start_time": 1889,
+      "end_time": 1889,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let's go for two more minutes..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jason Camlot",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "19ecd119-0124-4752-8182-fc74991652ac"
+    },
+    {
+      "start_time": 1892,
+      "end_time": 1892,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Affect of theatre kids---step forward and project as you perform for the back of the room"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "ben hynes",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "bfebc43d-a210-4f8c-9e05-ad7eca893d03"
+    },
+    {
+      "start_time": 1914,
+      "end_time": 1914,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "definitely giving theatre kid vibes hahaha"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "26729a12-407f-40bf-a50c-2b5fe69fd202"
+    },
+    {
+      "start_time": 2139,
+      "end_time": 2139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "relatively good rhythm in that room hahaha"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jade P",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "9a0593d7-bd3a-4b51-a9f1-331c4ba5c6f6"
+    },
+    {
+      "start_time": 2153,
+      "end_time": 2153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Good acoustics, for sure"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "ben hynes",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "5841246a-63a3-4894-a6c6-e747e6b3155e"
+    },
+    {
+      "start_time": 2305,
+      "end_time": 2305,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's great!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "ben hynes",
+          "category": "Commentator"
+        }
+      ],
+      "uuid": "6154d746-f5a4-44b0-94a4-1be8fd63b7c0"
+    }
+  ],
   "set": "Default",
   "event_id": "5dd70935-55b0-494c-a16f-cae2859cc86d",
   "source_id": "41468dc4-c1fe-4f6f-9286-0512aeac97fd"

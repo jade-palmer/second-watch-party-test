@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-05-07T21:50:51.631Z",
+  "created_by": "jade-palmer",
+  "title": "test for unlisted video",
+  "slug": "test-for-unlisted-video",
+  "updated_at": "2025-05-07T21:50:51.631Z",
+  "updated_by": "jade-palmer",
+  "parent": "037caa50-d26b-4ff9-918e-d43ac48e1964",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "a4830b4c-a651-4349-8fa4-36bc5b768543"
+  }
+}

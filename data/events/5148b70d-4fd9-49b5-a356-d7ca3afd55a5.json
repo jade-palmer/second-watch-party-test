@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "50bec158-c74d-4f0a-a0ac-6eb11a46c5ea": {
+      "label": "1995-02-13, Benefit Part 2",
+      "is_offline": false,
+      "file_url": "https://youtu.be/a0okgbc4Jb4",
+      "duration": 3304
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "1995-02-13 Benefit Part 2",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Enough Said spoken word event held at Bistro 4 (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada) on February 13, 1995, hosted by Lee Gotham. Fundraiser in support of En Marge, a youth shelter in Montreal. Performances by Raymond Filip, Colin Christie, Corey Frost, Endre Farkas, Sharon H. Nelson, Steve Luxton, Ian Ferrier, Sonja Skarstedt, and more."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-08T20:05:50.797Z",
+  "created_by": "jade-palmer",
+  "updated_at": "2025-05-08T20:05:50.797Z",
+  "updated_by": "jade-palmer"
+}
